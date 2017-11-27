@@ -49,7 +49,7 @@
      * @type {String}
      * @default http://localhost:8080
      */
-    this.basePath = 'http://localhost:8080'.replace(/\/+$/, '');
+    this.basePath = 'https://cloud-computing-simca.appspot.com'.replace(/\/+$/, '');
 
     /**
      * The authentication methods to be included for all API calls.

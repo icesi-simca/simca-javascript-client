@@ -1,6 +1,6 @@
 {
   "name": "api_simca",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "SIMCA_API_Client",
   "license": "Unlicense",
   "main": "src/index.js",

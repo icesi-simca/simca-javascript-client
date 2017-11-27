@@ -311,7 +311,7 @@
       var pathParams = {
       };
       var queryParams = {
-        'date': opts['_date'],
+        'date': opts['date'],
         'time': opts['time'],
         'place': opts['place'],
         'pollutant': opts['pollutant']
